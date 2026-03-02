@@ -1,4 +1,4 @@
-# Internship-Task-1
+# Internship-Task-1 Report
 Task 01: Company Website Frontend Development
 ________________________________________
 1. Task Title
