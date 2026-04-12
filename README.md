@@ -1,5 +1,5 @@
 # Internship-Report
-Task 01: Company Website Frontend Development
+Task : Company Website Frontend Development
 ________________________________________
 1. Task Title
 Company Website Frontend Development using WordPress
